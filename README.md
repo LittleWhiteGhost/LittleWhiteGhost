@@ -1,31 +1,30 @@
 <!-- Ghost Connect анимация -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=true&vCenter=true&width=600&height=80&lines=Ghost+Connect...;Connection+failed.;Error+404.;Reconnecting...;Ghost+Online+✔" alt="Ghost Connection Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=true&vCenter=true&width=600&height=80&lines=Ghost+Connect...;Connection+failed.;Error+404.;Reconnecting...;Ghost+Online+✔" alt="Ghost Connect Animation" />
 </p>
 
 ---
 
-<!-- Имитация ввода команды cmatrix -->
+<!-- Команда matrix -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=false&vCenter=true&width=600&height=40&lines=ghost@machine:~$+cmatrix" alt="typing command" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=false&vCenter=true&width=600&height=40&lines=ghost@machine:~$+matrix" alt="typing command" />
 </p>
 
-<!-- Живой эффект cmatrix через GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="CMatrix Animation" width="600"/>
+<!-- Имитация матрицы с разными символами -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=false&vCenter=true&multiline=true&repeat=false&width=600&height=220&lines=01#@%$&*01;10$#@*%&10;#0$1@*%01;01%&@#*10;*01@%$#10;10$#*&@01;01@%*#$10;#*01%$@10;10@%$#*01;01$#*@%10" alt="Matrix Simulation" />
 </p>
 
 ---
 
-<!-- Tech Stack с анимацией -->
+<!-- Tech Stack -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=120&lines=🛠+Tech+Stack;Languages:+Python,+JavaScript,+Rust;Tools:+Git,+Docker,+Blender;Other:+Linux,+AI,+Automation" alt="Tech Stack Animation" />
 </p>
 
 ---
 
-<!-- GitHub Stats с анимацией -->
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=📊+GitHub+Stats" alt="Stats Title Animation" />
 </p>
