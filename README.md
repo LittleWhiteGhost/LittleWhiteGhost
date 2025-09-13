@@ -12,8 +12,9 @@
 
 <!-- Имитация матрицы с разными символами -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=false&vCenter=true&multiline=true&repeat=false&width=600&height=220&lines=01#@%$&*01;10$#@*%&10;#0$1@*%01;01%&@#*10;*01@%$#10;10$#*&@01;01@%*#$10;#*01%$@10;10@%$#*01;01$#*@%10;0@1#%$*10;1$#@*01%10;01@*#%$10;10*#@%$01" alt="Matrix Simulation" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=false&vCenter=true&multiline=true&repeat=false&width=600&height=180&lines=01%23@%25$*01;10%24%23@*%26%2610;#0%24 1@*%2501;01%25&@%23*10;*01@%24%23%1010" alt="Matrix Simulation" />
 </p>
+
 
 ---
 
