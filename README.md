@@ -5,40 +5,14 @@
 
 ---
 
-<!-- Команда matrix -->
+<!-- Команда About Me -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=false&vCenter=true&width=600&height=40&lines=ghost@machine:~$+matrix" alt="typing command" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=false&vCenter=true&width=600&height=40&lines=ghost@machine:~$+about+me" alt="typing command" />
 </p>
 
-<!-- Имитация матрицы -->
+<!-- About Me на русском и английском -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=false&vCenter=true&multiline=true&repeat=false&width=600&height=180&lines=01%23@%24%26*01;10%24%23@*%26%2610;#0%24 1@*%2501;01%25&@%23*10;*01@%24%23%1010;10@%24%26*01;01%23@%24%2510;#*01%25%24@10;10@%25%24#*01" alt="Matrix Simulation" />
-</p>
-
----
-
-<!-- Tech Stack -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=120&lines=🛠+Tech+Stack;Languages:+Python,+JavaScript,+Rust;Tools:+Git,+Docker,+Blender;Other:+Linux,+AI,+Automation" alt="Tech Stack Animation" />
-</p>
-
----
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=📊+GitHub+Stats" alt="Stats Title Animation" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark" alt="langs" height="160"/>
-</p>
-
----
-
-<!-- Финальная строка с мигающим курсором -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=400&lines=%3E+Ghost+session+active+█" alt="Terminal Cursor" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=false&vCenter=true&multiline=true&repeat=false&width=800&height=180&lines=Привет,+меня+зовут+Фаррух,+мне+16,+и+я+являюсь+студентом+колледжа+1-го+курса.;Hi,+my+name+is+Farrukh,+I’m+16,+and+I’m+a+first-year+college+student.;Учусь+на+программиста,+хочу+стать+бэкенд-разработчиком+либо+фуллстак.;I’m+studying+programming+and+want+to+become+a+backend+developer+or+full-stack.;С+вами+был+Фаррух,+пока!;This+was+Farrukh,+bye!" alt="About Me Animation" />
 </p>
 
 
