@@ -6,9 +6,42 @@
 ---
 
 <!-- Команда About Me (остается на экране) -->
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=false&vCenter=true&width=600&height=40&speed=30&lines=ghost@machine:~$+about+me" alt="typing command" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Typing Effect</title>
+<style>
+  body {
+    background-color: black;
+    color: #00CC00;
+    font-family: monospace;
+    padding: 20px;
+  }
+
+  .typing-text {
+    white-space: pre; /* чтобы пробелы и переносы сохранялись */
+    overflow: hidden;
+    border-right: 2px solid #00CC00; /* курсор */
+    display: inline-block;
+    animation: typing 2s steps(30, end) forwards; /* только один раз */
+  }
+
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+</style>
+</head>
+<body>
+
+<p>
+  <span class="typing-text">ghost@machine:~$ about me</span>
 </p>
+
+</body>
+</html>
 
 <!-- About Me постепенно (появляется после команды) -->
 <p align="left">
