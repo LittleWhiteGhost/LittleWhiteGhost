@@ -5,12 +5,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=400&lines=Ghost+is+coming...;Matrix+Revealed;Digital+Spirit" alt="Ghost Matrix Effect" />
 </p>
 
-<!-- Основная информация -->
 ## 🕶️ Ghost Matrix Experience
 
 <div align="center">
-  <h3>👁️‍🗨️ The Digital Phantom</h3>
-  <p>From the digital realm, I emerge...</p>
+  <h3>👁️‍🗨️ The Network Phantom</h3>
+  <p style="font-family: monospace;">
+    [LOADING]...<br>
+    [CONNECTING]...<br>
+    [ERROR] 404 - GHOST NOT FOUND<br>
+    [RETRY]...<br>
+    [FOUND] Ghost manifesting...<br>
+    ⚡ GHOST ONLINE ⚡
+  </p>
 </div>
 
 <!-- Статистика -->
