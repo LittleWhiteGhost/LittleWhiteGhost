@@ -10,22 +10,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=false&vCenter=true&width=600&height=40&lines=ghost@machine:~$+matrix" alt="typing command" />
 </p>
 
-<!-- Имитация матрицы с разными символами -->
+<!-- Имитация матрицы -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=false&vCenter=true&multiline=true&repeat=false&width=600&height=180&lines=01%23@%25$*01;10%24%23@*%26%2610;#0%24 1@*%2501;01%25&@%23*10;*01@%24%23%1010" alt="Matrix Simulation" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=false&vCenter=true&multiline=true&repeat=false&width=600&height=180&lines=01%23@%24%26*01;10%24%23@*%26%2610;#0%24 1@*%2501;01%25&@%23*10;*01@%24%23%1010;10@%24%26*01;01%23@%24%2510;#*01%25%24@10;10@%25%24#*01" alt="Matrix Simulation" />
 </p>
-
 
 ---
 
-<!-- Tech Stack с анимацией -->
+<!-- Tech Stack -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=120&lines=🛠+Tech+Stack;Languages:+Python,+JavaScript,+Rust;Tools:+Git,+Docker,+Blender;Other:+Linux,+AI,+Automation" alt="Tech Stack Animation" />
 </p>
 
 ---
 
-<!-- GitHub Stats с анимацией -->
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=📊+GitHub+Stats" alt="Stats Title Animation" />
 </p>
