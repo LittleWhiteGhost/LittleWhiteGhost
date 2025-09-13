@@ -7,13 +7,13 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=true&vCenter=true&multiline=true&width=600&height=120&lines=🛠+Tech+Stack;Languages:+Python,+JavaScript,+Rust;Tools:+Git,+Docker,+Blender;Other:+Linux,+AI,+Automation" alt="Tech Stack Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=120&lines=🛠+Tech+Stack;Languages:+Python,+JavaScript,+Rust;Tools:+Git,+Docker,+Blender;Other:+Linux,+AI,+Automation" alt="Tech Stack Animation" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=📊+GitHub+Stats" alt="Stats Title Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=📊+GitHub+Stats" alt="Stats Title Animation" />
 </p>
 
 <p align="center">
