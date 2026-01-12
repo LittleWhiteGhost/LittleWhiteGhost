@@ -28,10 +28,12 @@
 
 <!-- Технологии с иконкой -->
 <div align="center">
-  <h3><img src="https://img.icons8.com/ios-filled/28/FFFFFF/settings.png" alt="Tools" style="vertical-align: middle; margin-right: 1px;" /> Technology Stack</h3>
-  <img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <h3><img src="https://img.icons8.com/ios-filled/28/FFFFFF/settings.png" alt="Tools" style="vertical-align: middle; margin-right: 6px;" />Technology Stack</h3>
+  <img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
   <img src="https://img.shields.io/badge/-Telegram%20Bot-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" />
   <img src="https://img.shields.io/badge/-OpenRouter-000000?style=for-the-badge&logo=OpenAI&logoColor=white" />
@@ -41,7 +43,7 @@
 
 <!-- GitHub Stats с иконкой -->
 <div align="center">
-  <h3><img src="https://img.icons8.com/ios-filled/28/FFFFFF/statistics.png" alt="Stats" style="vertical-align: middle; margin-right: 5px;" /> My GitHub Stats</h3>
+  <h3><img src="https://img.icons8.com/ios-filled/28/FFFFFF/statistics.png" alt="Stats" style="vertical-align: middle; margin-right: 6px;" />My GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farruh&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
 </div>
 
@@ -49,7 +51,7 @@
 
 <!-- Достижения с иконкой -->
 <div align="center">
-  <h3><img src="https://img.icons8.com/ios-filled/28/FFFFFF/trophy.png" alt="Achievements" style="vertical-align: middle; margin-right: 5px;" /> Achievements</h3>
+  <h3><img src="https://img.icons8.com/ios-filled/28/FFFFFF/trophy.png" alt="Achievements" style="vertical-align: middle; margin-right: 6px;" />Achievements</h3>
   <img src="https://img.shields.io/badge/-Developer%20Program%20Member-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Open%20Source%20Contributor-000000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
@@ -65,7 +67,7 @@
 
 <!-- Интересы с иконкой -->
 <div align="center">
-  <h3><img src="https://img.icons8.com/ios-filled/28/FFFFFF/lightning-bolt.png" alt="Interests" style="vertical-align: middle; margin-right: 3px;" /> Interests</h3>
+  <h3><img src="https://img.icons8.com/ios-filled/28/FFFFFF/lightning-bolt.png" alt="Interests" style="vertical-align: middle; margin-right: 6px;" />Interests</h3>
   <p>
     <img src="https://img.icons8.com/ios-filled/24/FFFFFF/globe.png" alt="Web" /> Web Development &nbsp;&nbsp;
     <img src="https://img.icons8.com/ios-filled/24/FFFFFF/robot.png" alt="AI" /> AI & Bots &nbsp;&nbsp;
@@ -79,5 +81,48 @@
 
 <!-- Подпись с иконкой -->
 <div align="center">
-  <p><img src="https://img.icons8.com/ios-filled/24/FFFFFF/mail.png" alt="Contact" style="vertical-align: middle; margin-right: 5px;" />Contact me: <a href="mailto:farruh@example.com">otaevfarruhjon@gmail.com</a> | <a href="https://t.me/LittleWhiteGhost">Telegram</a></p>
+  <p><img src="https://img.icons8.com/ios-filled/24/FFFFFF/mail.png" alt="Contact" style="vertical-align: middle; margin-right: 6px;" />Contact me: <a href="mailto:otaevfarruhjon@gmail.com">otaevfarruhjon@gmail.com</a> | <a href="https://t.me/LittleWhiteGhost">Telegram</a></p>
 </div>
+
+<!-- Стили для темной темы и анимации -->
+<style>
+  body {
+    background-color: #0d0d0d;
+    color: #ffffff;
+    font-family: 'Courier New', monospace;
+  }
+  h1, h2, h3 {
+    color: #ffffff;
+  }
+  p {
+    color: #cccccc;
+  }
+  img {
+    border-radius: 10px;
+    margin: 5px;
+  }
+  .badge {
+    margin: 5px;
+  }
+  /* Увеличим размер иконок */
+  img[src*="icons8.com"] {
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+    margin: 0 4px;
+  }
+  /* Иконка в заголовке */
+  h1 img, h3 img, p img {
+    width: 24px;
+    height: 24px;
+    margin-right: 6px;
+  }
+  h1 img {
+    width: 32px;
+    height: 32px;
+  }
+  h3 img {
+    width: 28px;
+    height: 28px;
+  }
+</style>
