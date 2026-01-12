@@ -1,6 +1,6 @@
 <!-- Фон с анимацией заката -->
 <div align="center">
-  <img src="https://i.imgur.com/5XzJQ7d.gif" alt="Закатный фон" width="100%" />
+  <img src="Ghost.jpg" alt="Призрак" width="100%" />
 </div>
 
 <!-- Заголовок -->
