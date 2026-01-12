@@ -3,9 +3,9 @@
   <img src="Ghost.jpg" alt="Призрак" width="100%" />
 </div>
 
-<!-- Заголовок -->
+<!-- Заголовок с иконкой -->
 <div align="center">
-  <h1>👋 Hi, I’m Farruh</h1>
+  <h1><img src="https://img.icons8.com/ios-filled/32/FFFFFF/user.png" alt="User" style="vertical-align: middle; margin-right: 8px;" /> Hi, I’m Farruh</h1>
   <p><em>A Web Developer in making</em></p>
 </div>
 
@@ -26,9 +26,9 @@
 
 <br />
 
-<!-- Технологии -->
+<!-- Технологии с иконкой -->
 <div align="center">
-  <h3>🛠️ Technology Stack</h3>
+  <h3><img src="https://img.icons8.com/ios-filled/28/FFFFFF/settings.png" alt="Tools" style="vertical-align: middle; margin-right: 6px;" />Technology Stack</h3>
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -40,17 +40,17 @@
 
 <br />
 
-<!-- Мои GitHub Stats -->
+<!-- GitHub Stats с иконкой -->
 <div align="center">
-  <h3>📊 My GitHub Stats</h3>
+  <h3><img src="https://img.icons8.com/ios-filled/28/FFFFFF/statistics.png" alt="Stats" style="vertical-align: middle; margin-right: 6px;" />My GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farruh&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
 </div>
 
 <br />
 
-<!-- Достижения -->
+<!-- Достижения с иконкой -->
 <div align="center">
-  <h3>🏆 Achievements</h3>
+  <h3><img src="https://img.icons8.com/ios-filled/28/FFFFFF/trophy.png" alt="Achievements" style="vertical-align: middle; margin-right: 6px;" />Achievements</h3>
   <img src="https://img.shields.io/badge/-Developer%20Program%20Member-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Open%20Source%20Contributor-000000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
@@ -64,17 +64,23 @@
 
 <br />
 
-<!-- Анимированный раздел с моими интересами -->
+<!-- Интересы с иконкой -->
 <div align="center">
-  <h3>⚡ Interests</h3>
-  <p>🌐 Web Development • 🤖 AI & Bots • 🔐 Privacy & Security • 🎵 Music Search Automation • 🚀 Futuristic Tech</p>
+  <h3><img src="https://img.icons8.com/ios-filled/28/FFFFFF/lightning-bolt.png" alt="Interests" style="vertical-align: middle; margin-right: 6px;" />Interests</h3>
+  <p>
+    <img src="https://img.icons8.com/ios-filled/24/FFFFFF/globe.png" alt="Web" /> Web Development &nbsp;&nbsp;
+    <img src="https://img.icons8.com/ios-filled/24/FFFFFF/robot.png" alt="AI" /> AI & Bots &nbsp;&nbsp;
+    <img src="https://img.icons8.com/ios-filled/24/FFFFFF/shield.png" alt="Security" /> Privacy & Security &nbsp;&nbsp;
+    <img src="https://img.icons8.com/ios-filled/24/FFFFFF/music.png" alt="Music" /> Music Search Automation &nbsp;&nbsp;
+    <img src="https://img.icons8.com/ios-filled/24/FFFFFF/rocket.png" alt="Future" /> Futuristic Tech
+  </p>
 </div>
 
 <br />
 
-<!-- Подпись -->
+<!-- Подпись с иконкой -->
 <div align="center">
-  <p>📩 Contact me: <a href="mailto:farruh@example.com">farruh@example.com</a> | <a href="https://t.me/farruh_bot">Telegram</a></p>
+  <p><img src="https://img.icons8.com/ios-filled/24/FFFFFF/mail.png" alt="Contact" style="vertical-align: middle; margin-right: 4px;" />Contact me: <a href="mailto:farruh@example.com">farruh@example.com</a> | <a href="https://t.me/farruh_bot">Telegram</a></p>
 </div>
 
 <!-- Стили для темной темы и анимации -->
@@ -96,5 +102,26 @@
   }
   .badge {
     margin: 5px;
+  }
+  /* Увеличим размер иконок */
+  img[src*="icons8.com"] {
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+    margin: 0 4px;
+  }
+  /* Иконка в заголовке */
+  h1 img, h3 img, p img {
+    width: 24px;
+    height: 24px;
+    margin-right: 6px;
+  }
+  h1 img {
+    width: 32px;
+    height: 32px;
+  }
+  h3 img {
+    width: 28px;
+    height: 28px;
   }
 </style>
