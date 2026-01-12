@@ -28,7 +28,7 @@
 
 <!-- Технологии с иконкой -->
 <div align="center">
-  <h3><img src="https://img.icons8.com/ios-filled/28/FFFFFF/settings.png" alt="Tools" style="vertical-align: middle; margin-right: 3px;" /> Technology Stack</h3>
+  <h3><img src="https://img.icons8.com/ios-filled/28/FFFFFF/settings.png" alt="Tools" style="vertical-align: middle; margin-right: 1px;" /> Technology Stack</h3>
   <img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
