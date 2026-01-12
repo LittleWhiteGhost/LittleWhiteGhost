@@ -65,7 +65,7 @@
 
 <!-- Интересы с иконкой -->
 <div align="center">
-  <h3><img src="https://img.icons8.com/ios-filled/28/FFFFFF/lightning-bolt.png" alt="Interests" style="vertical-align: middle; margin-right: 5px;" /> Interests</h3>
+  <h3><img src="https://img.icons8.com/ios-filled/28/FFFFFF/lightning-bolt.png" alt="Interests" style="vertical-align: middle; margin-right: 3px;" /> Interests</h3>
   <p>
     <img src="https://img.icons8.com/ios-filled/24/FFFFFF/globe.png" alt="Web" /> Web Development &nbsp;&nbsp;
     <img src="https://img.icons8.com/ios-filled/24/FFFFFF/robot.png" alt="AI" /> AI & Bots &nbsp;&nbsp;
