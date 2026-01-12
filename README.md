@@ -1,6 +1,6 @@
 <!-- Фон: твой Ghost.jpg -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/farruh/your-repo/main/Ghost.jpg" alt="Призрак" width="100%" />
+  <img src="Ghost.jpg" alt="Призрак" width="100%" />
 </div>
 
 <!-- Заголовок -->
