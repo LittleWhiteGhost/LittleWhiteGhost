@@ -3,32 +3,21 @@
   <img src="8115200073_photo_1770349265800.jpg" alt="Призрак" />
 </div>
 
-<center>
-# Hi, I'm Farruh and I'm a beginner frontend developer
+<div align="center">
 
-## I'm 16 years old. I'm studying in my 1st year at IT Top College.  
-### Actively seeking an internship or junior developer position.  
-### Fast learner who writes clean, maintainable code.
-
-## Proficient in:
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![AI](https://img.shields.io/badge/-AI%2FLLM-6464FF?logo=artificial-intelligence&logoColor=white)
-
-> Open to collaboration and ready to contribute to real projects while continuously expanding my knowledge.
-
---------
+# Hi, I'm Farruh and I'm a beginner frontend developer  
 # Привет, меня зовут Фаррух и я начинающий фронтенд-разработчик
 
-## Мне 16 лет. Учусь на 1 курсе в колледже IT Top.  
-### Активно ищу стажировку или позицию джуниор-разработчика.  
-### Быстро учусь и пишу чистый, поддерживаемый код.
+## I'm 16 years old. Studying in my 1st year at IT Top College  
+## Мне 16 лет. Учусь на 1 курсе в колледже IT Top
 
-## Умею работать на:
+### Actively seeking an internship or junior developer position  
+### Активно ищу стажировку или позицию джуниор-разработчика
+
+### Fast learner who writes clean, maintainable code  
+### Быстро учусь и пишу чистый, поддерживаемый код
+
+## Proficient in / Умею работать с:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -37,6 +26,14 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![AI](https://img.shields.io/badge/-AI%2FLLM-6464FF?logo=artificial-intelligence&logoColor=white)
 
-> Открыт к сотрудничеству и готов вносить вклад в реальные проекты, постоянно расширяя свои знания.
->  </center>
+> Open to collaboration and ready to contribute to real projects while continuously expanding my knowledge  
+> Открыт к сотрудничеству и готов вносить вклад в реальные проекты, постоянно расширяя свои знания
 
+---
+
+###  Contact / Связь:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/LittleWhiteGhost)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:otaevfarruhjon@gmail.com)
+
+</div>
