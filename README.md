@@ -3,6 +3,7 @@
   <img src="8115200073_photo_1770349265800.jpg" alt="Призрак" />
 </div>
 
+<center>
 # Hi, I'm Farruh and I'm a beginner frontend developer
 
 ## I'm 16 years old. I'm studying in my 1st year at IT Top College.  
@@ -37,4 +38,5 @@
 ![AI](https://img.shields.io/badge/-AI%2FLLM-6464FF?logo=artificial-intelligence&logoColor=white)
 
 > Открыт к сотрудничеству и готов вносить вклад в реальные проекты, постоянно расширяя свои знания.
+>  </center>
 
