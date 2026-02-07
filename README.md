@@ -1,6 +1,6 @@
-# Farruh
+# Hi my name is Farruh i am 
 
-### Frontend Developer | IT Top College Student
+### Beginer Frontend Developer | IT Top College Student
 
 ---
 
@@ -14,12 +14,12 @@ Fast learner who writes clean, maintainable code.
 
 ### Skills
 
-- JavaScript
-- HTML5
-- CSS3
-- Firebase
-- Git
-- AI/LLM
+ JavaScript
+ HTML5
+ CSS3
+ Firebase
+ Git
+ AI/LLM
 
 ---
 
