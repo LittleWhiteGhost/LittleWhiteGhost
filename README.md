@@ -4,7 +4,7 @@
   color: #ffffff;
   background: 
     linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), 
-    url('8115200073_photo_1770349265800.jpg');
+    url('Ghost.jpg');
   background-size: cover;
   background-position: center;
   padding: 40px;
