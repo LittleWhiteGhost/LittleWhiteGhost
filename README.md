@@ -20,6 +20,7 @@
 
 > Open to collaboration and ready to contribute to real projects while continuously expanding my knowledge.
 
+--------
 # Привет, меня зовут Фаррух и я начинающий фронтенд-разработчик
 
 ## Мне 16 лет. Учусь на 1 курсе в колледже IT Top.  
