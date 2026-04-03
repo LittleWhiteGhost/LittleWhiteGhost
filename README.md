@@ -24,18 +24,8 @@ I am a 16-year-old developer focused on writing clean, maintainable code. Curren
 
 ---
 
-### GitHub Statistics
+                                                                                                                                                                                                                                                                      
 
-<p align="center">
-  <!-- Замени 'LittleWhiteGhost' на свой точный никнейм репозитория, если отличается, но обычно это ник пользователя -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LittleWhiteGhost&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleWhiteGhost&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa" alt="Top Languages" />
-</p>
-
-*(Примечание: Статистика обновляется автоматически раз в сутки)*
-
----
 
 ### Current Projects
 
