@@ -52,4 +52,5 @@ Feel free to reach out for collaboration or internship opportunities.
 ---
 
 ```text
-> "Clean code always looks like it was written by someone who cares."
+> "Learning by building, coding by doing."
+
