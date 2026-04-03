@@ -15,12 +15,28 @@ I am a 16-year-old developer focused on writing clean, maintainable code. Curren
 
 ### Technical Stack
 
+**Development Environment**
+
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat&logo=visual-studio-code&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-000000?style=flat&logo=zed&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-000000?style=flat&logo=tmux&logoColor=white)
+
+**AI & LLM Ecosystem**
+
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=flat&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-000000?style=flat&logo=google-gemini&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-000000?style=flat&logo=alibabacloud&logoColor=white)
+
+**Core Web & Infrastructure**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)
-![AI/LLM](https://img.shields.io/badge/AI%2FLLM-000000?style=flat&logo=openai&logoColor=white)
 
 ---
 
