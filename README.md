@@ -60,7 +60,6 @@ Passionate 16-year-old frontend developer with a strong focus on clean, maintain
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![tmux](https://img.shields.io/badge/tmux-000000?style=flat&logo=tmux&logoColor=white)
 
 ---
 
