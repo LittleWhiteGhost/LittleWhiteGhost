@@ -9,7 +9,7 @@
 **Telegram:** [@LittleWhiteGhost](https://t.me/LittleWhiteGhost)  
 **Pinterest** [@Ghost](https://ru.pinterest.com/LittlewhiteGhost)
 
-**Location:** Moscow, Zelenograd
+**Location:** Moscow, Zelenograd.
 
 
 
