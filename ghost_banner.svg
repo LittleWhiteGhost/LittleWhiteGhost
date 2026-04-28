@@ -1,0 +1,171 @@
+<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <defs>
+    <!-- Scanlines pattern -->
+    <pattern id="scanlines" x="0" y="0" width="1" height="4" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="1" height="3" fill="transparent"/>
+      <rect x="0" y="3" width="1" height="1" fill="rgba(0,0,0,0.07)"/>
+    </pattern>
+
+    <!-- Noise grain filter -->
+    <filter id="grain" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="4" stitchTiles="stitch" result="noise"/>
+      <feColorMatrix type="saturate" values="0" in="noise" result="grayNoise"/>
+      <feBlend in="SourceGraphic" in2="grayNoise" mode="overlay" result="blended"/>
+      <feComposite in="blended" in2="SourceGraphic" operator="in"/>
+    </filter>
+
+    <!-- Clip for name reveal -->
+    <clipPath id="nameClip">
+      <rect x="0" y="0" width="900" height="300">
+        <animate attributeName="width" from="0" to="900" dur="0.9s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.19 1 0.22 1"/>
+      </rect>
+    </clipPath>
+
+    <!-- Clip for glitch effect -->
+    <clipPath id="glitchClip">
+      <rect x="0" y="90" width="900" height="60"/>
+    </clipPath>
+
+    <!-- Ticker clip -->
+    <clipPath id="tickerClip">
+      <rect x="0" y="274" width="900" height="26"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="300" fill="#0a0a0a"/>
+
+  <!-- Horizontal grid lines -->
+  <g opacity="0.04">
+    <line x1="0" y1="50" x2="900" y2="50" stroke="#f0ede8" stroke-width="1">
+      <animate attributeName="x2" from="0" to="900" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.19 1 0.22 1"/>
+    </line>
+    <line x1="0" y1="100" x2="900" y2="100" stroke="#f0ede8" stroke-width="1">
+      <animate attributeName="x2" from="0" to="900" dur="0.8s" begin="0.15s" fill="freeze" calcMode="spline" keySplines="0.19 1 0.22 1"/>
+    </line>
+    <line x1="0" y1="150" x2="900" y2="150" stroke="#f0ede8" stroke-width="1">
+      <animate attributeName="x2" from="0" to="900" dur="0.8s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.19 1 0.22 1"/>
+    </line>
+    <line x1="0" y1="200" x2="900" y2="200" stroke="#f0ede8" stroke-width="1">
+      <animate attributeName="x2" from="0" to="900" dur="0.8s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.19 1 0.22 1"/>
+    </line>
+    <line x1="0" y1="250" x2="900" y2="250" stroke="#f0ede8" stroke-width="1">
+      <animate attributeName="x2" from="0" to="900" dur="0.8s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.19 1 0.22 1"/>
+    </line>
+  </g>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="3" height="300" fill="#e8c9b4">
+    <animate attributeName="height" from="0" to="300" dur="1s" begin="0s" fill="freeze" calcMode="spline" keySplines="0.19 1 0.22 1"/>
+    <animate attributeName="y" from="300" to="0" dur="1s" begin="0s" fill="freeze" calcMode="spline" keySplines="0.19 1 0.22 1"/>
+  </rect>
+
+  <!-- Corner brackets -->
+  <g stroke="rgba(240,237,232,0.15)" stroke-width="1" fill="none">
+    <!-- TL -->
+    <polyline points="8,18 8,8 18,8"/>
+    <!-- TR -->
+    <polyline points="882,8 892,8 892,18"/>
+    <!-- BL -->
+    <polyline points="8,274 8,284 18,284"/>
+    <!-- BR -->
+    <polyline points="882,284 892,284 892,274"/>
+  </g>
+
+  <!-- Eyebrow text -->
+  <text x="45" y="48" font-family="'Space Mono', monospace" font-size="9" fill="#4a4a46" letter-spacing="3" text-anchor="start">
+    BIOGRAPHY / ARCHIVE / GHOST PROFILE
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.4s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.6s" begin="0.4s" fill="freeze" additive="sum"/>
+  </text>
+
+  <!-- Big GHOST name -->
+  <g clip-path="url(#nameClip)">
+    <text x="36" y="220" font-family="'Bebas Neue', 'Arial Black', sans-serif" font-size="126" fill="#f0ede8" letter-spacing="4">GHOST</text>
+  </g>
+
+  <!-- Glitch copy of name -->
+  <g clip-path="url(#glitchClip)" opacity="0">
+    <text x="36" y="220" font-family="'Bebas Neue', 'Arial Black', sans-serif" font-size="126" fill="#e8c9b4" letter-spacing="4">GHOST</text>
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.6;0;0;0.4;0;0;0;0;0;0;0;0;0;0" dur="7s" begin="2s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;-4;0;0;3;0;0;0;0;0;0;0;0;0;0" dur="7s" begin="2s" repeatCount="indefinite" additive="sum"/>
+  </g>
+
+  <!-- Accent line under name -->
+  <line x1="45" y1="242" x2="45" y2="242" stroke="#e8c9b4" stroke-width="1">
+    <animate attributeName="x2" from="45" to="580" dur="0.8s" begin="1s" fill="freeze" calcMode="spline" keySplines="0.19 1 0.22 1"/>
+  </line>
+
+  <!-- Subtitle -->
+  <text x="45" y="264" font-family="'Space Mono', monospace" font-size="8" fill="rgba(240,237,232,0.3)" letter-spacing="3">
+    FARRUHJON OTAEV · FRONTEND DEVELOPER · MOSCOW · 2026
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.5s" begin="1s" fill="freeze" additive="sum"/>
+  </text>
+
+  <!-- Right block - large decorative number -->
+  <g>
+    <text x="820" y="178" font-family="'Bebas Neue', 'Arial Black', sans-serif" font-size="96" fill="rgba(240,237,232,0.06)" text-anchor="middle">001</text>
+    <text x="820" y="200" font-family="'Space Mono', monospace" font-size="8" fill="#4a4a46" letter-spacing="2" text-anchor="middle">COLLECTION 2026</text>
+    <!-- Tag box -->
+    <rect x="748" y="208" width="144" height="18" fill="none" stroke="rgba(240,237,232,0.12)" stroke-width="1"/>
+    <text x="820" y="221" font-family="'Space Mono', monospace" font-size="7" fill="#e8c9b4" letter-spacing="2" text-anchor="middle">MONOCHROME / TECHWEAR</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.8s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.6s" begin="0.8s" fill="freeze" additive="sum"/>
+  </g>
+
+  <!-- Vertical side text -->
+  <text transform="translate(878, 150) rotate(90)" font-family="'Space Mono', monospace" font-size="7" fill="#2a2a2a" letter-spacing="4" text-anchor="middle">
+    PERSONAL MATERIALS OF GHOST · ARCHIVE
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.2s" fill="freeze"/>
+  </text>
+
+  <!-- Ticker background -->
+  <rect x="0" y="274" width="900" height="26" fill="rgba(232,201,180,0.06)"/>
+  <line x1="0" y1="274" x2="900" y2="274" stroke="rgba(232,201,180,0.1)" stroke-width="1"/>
+
+  <!-- Ticker text (duplicated for seamless loop) -->
+  <g clip-path="url(#tickerClip)" font-family="'Space Mono', monospace" font-size="7" letter-spacing="3" text-anchor="start">
+    <text y="291" fill="#4a4a46">
+      <tspan fill="#4a4a46">FRONTEND DEVELOPER</tspan>
+      <tspan fill="#e8c9b4" dx="10">·</tspan>
+      <tspan fill="#4a4a46" dx="10">TELEGRAM BOTS</tspan>
+      <tspan fill="#e8c9b4" dx="10">·</tspan>
+      <tspan fill="#4a4a46" dx="10">UI DESIGN</tspan>
+      <tspan fill="#e8c9b4" dx="10">·</tspan>
+      <tspan fill="#4a4a46" dx="10">REACT</tspan>
+      <tspan fill="#e8c9b4" dx="10">·</tspan>
+      <tspan fill="#4a4a46" dx="10">PYTHON</tspan>
+      <tspan fill="#e8c9b4" dx="10">·</tspan>
+      <tspan fill="#4a4a46" dx="10">MOSCOW</tspan>
+      <tspan fill="#e8c9b4" dx="10">·</tspan>
+      <tspan fill="#4a4a46" dx="10">OPEN TO WORK</tspan>
+      <tspan fill="#e8c9b4" dx="10">·</tspan>
+      <tspan fill="#4a4a46" dx="10">GHOST · COLLECTION 2026</tspan>
+      <tspan fill="#e8c9b4" dx="10">·</tspan>
+      <tspan fill="#4a4a46" dx="10">FRONTEND DEVELOPER</tspan>
+      <tspan fill="#e8c9b4" dx="10">·</tspan>
+      <tspan fill="#4a4a46" dx="10">TELEGRAM BOTS</tspan>
+      <tspan fill="#e8c9b4" dx="10">·</tspan>
+      <tspan fill="#4a4a46" dx="10">UI DESIGN</tspan>
+      <tspan fill="#e8c9b4" dx="10">·</tspan>
+      <tspan fill="#4a4a46" dx="10">REACT</tspan>
+      <tspan fill="#e8c9b4" dx="10">·</tspan>
+      <tspan fill="#4a4a46" dx="10">PYTHON</tspan>
+      <tspan fill="#e8c9b4" dx="10">·</tspan>
+      <tspan fill="#4a4a46" dx="10">MOSCOW</tspan>
+      <tspan fill="#e8c9b4" dx="10">·</tspan>
+      <tspan fill="#4a4a46" dx="10">OPEN TO WORK</tspan>
+      <tspan fill="#e8c9b4" dx="10">·</tspan>
+      <tspan fill="#4a4a46" dx="10">GHOST · COLLECTION 2026</tspan>
+      <tspan fill="#e8c9b4" dx="10">·</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-900 0" dur="18s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Grain overlay -->
+  <rect width="900" height="300" fill="rgba(255,255,255,0.045)" filter="url(#grain)" opacity="1"/>
+
+  <!-- Scanlines overlay -->
+  <rect width="900" height="300" fill="url(#scanlines)"/>
+</svg>
