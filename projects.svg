@@ -1,0 +1,40 @@
+<svg width="800" height="310" viewBox="0 0 800 310" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="310" fill="#0a0a0a"/>
+  <text x="30" y="32" font-family="'Courier New',monospace" font-size="9" letter-spacing="4" fill="#6b6b66">03 ── PROJECTS</text>
+  <rect x="30" y="42" width="740" height="1" fill="#2a2a2a"/>
+
+  <!-- card 1 -->
+  <rect x="30" y="56" width="356" height="100" rx="2" fill="#111" stroke="#2a2a2a" stroke-width="1"/>
+  <rect x="30" y="56" width="2" height="100" fill="#f0ede8"/>
+  <text x="46" y="78" font-family="Georgia,serif" font-size="15" font-weight="700" fill="#f0ede8">Stars Pay Bot</text>
+  <text x="46" y="96" font-family="'Courier New',monospace" font-size="10" fill="#6b6b66">Продажа доступа в каналы через Telegram Stars</text>
+  <text x="46" y="112" font-family="'Courier New',monospace" font-size="10" fill="#6b6b66">Оплата → проверка → выдача без участия человека</text>
+  <text x="46" y="140" font-family="'Courier New',monospace" font-size="9" fill="#e8c9b4" letter-spacing="1">Python · aiogram · Telegram API</text>
+  <text x="374" y="78" font-family="'Courier New',monospace" font-size="8" fill="#2a2a2a" text-anchor="end" letter-spacing="2">DEV</text>
+
+  <!-- card 2 -->
+  <rect x="414" y="56" width="356" height="100" rx="2" fill="#111" stroke="#2a2a2a" stroke-width="1"/>
+  <rect x="414" y="56" width="2" height="100" fill="#f0ede8"/>
+  <text x="430" y="78" font-family="Georgia,serif" font-size="15" font-weight="700" fill="#f0ede8">Ghost Style Store</text>
+  <text x="430" y="96" font-family="'Courier New',monospace" font-size="10" fill="#6b6b66">Интернет-магазин одежды и обуви</text>
+  <text x="430" y="112" font-family="'Courier New',monospace" font-size="10" fill="#6b6b66">Каталог · корзина · оформление заказа</text>
+  <text x="430" y="140" font-family="'Courier New',monospace" font-size="9" fill="#e8c9b4" letter-spacing="1">React · Firebase · CSS</text>
+
+  <!-- card 3 -->
+  <rect x="30" y="170" width="356" height="100" rx="2" fill="#111" stroke="#2a2a2a" stroke-width="1"/>
+  <rect x="30" y="170" width="2" height="100" fill="#f0ede8"/>
+  <text x="46" y="192" font-family="Georgia,serif" font-size="15" font-weight="700" fill="#f0ede8">LLM Group Bot</text>
+  <text x="46" y="210" font-family="'Courier New',monospace" font-size="10" fill="#6b6b66">Умный бот управления Telegram-группой</text>
+  <text x="46" y="226" font-family="'Courier New',monospace" font-size="10" fill="#6b6b66">50+ запросов в день · GPT-4 · Claude</text>
+  <text x="46" y="254" font-family="'Courier New',monospace" font-size="9" fill="#e8c9b4" letter-spacing="1">Node.js · OpenRouter · SQLite</text>
+
+  <!-- card 4 -->
+  <rect x="414" y="170" width="356" height="100" rx="2" fill="#111" stroke="#2a2a2a" stroke-width="1"/>
+  <rect x="414" y="170" width="2" height="#f0ede8"/>
+  <rect x="414" y="170" width="2" height="100" fill="#e8c9b4"/>
+  <text x="430" y="192" font-family="Georgia,serif" font-size="15" font-weight="700" fill="#f0ede8">Bio Site</text>
+  <text x="430" y="210" font-family="'Courier New',monospace" font-size="10" fill="#6b6b66">Персональный сайт в monochrome / techwear</text>
+  <text x="430" y="226" font-family="'Courier New',monospace" font-size="10" fill="#6b6b66">эстетике — этот самый проект</text>
+  <text x="430" y="254" font-family="'Courier New',monospace" font-size="9" fill="#e8c9b4" letter-spacing="1">React · Vite · CSS</text>
+  <text x="758" y="258" font-family="'Courier New',monospace" font-size="9" fill="#e8c9b4" text-anchor="end" letter-spacing="1">↗ bio-lime-phi.vercel.app</text>
+</svg>

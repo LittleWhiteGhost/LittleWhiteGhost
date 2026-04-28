@@ -1,0 +1,23 @@
+<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="160" fill="#0a0a0a"/>
+  <!-- noise lines -->
+  <line x1="0" y1="20" x2="800" y2="20" stroke="#ffffff" stroke-width="0.3" stroke-opacity="0.06"/>
+  <line x1="0" y1="40" x2="800" y2="40" stroke="#ffffff" stroke-width="0.3" stroke-opacity="0.04"/>
+  <line x1="0" y1="60" x2="800" y2="60" stroke="#ffffff" stroke-width="0.3" stroke-opacity="0.06"/>
+  <line x1="0" y1="80" x2="800" y2="80" stroke="#ffffff" stroke-width="0.3" stroke-opacity="0.04"/>
+  <line x1="0" y1="100" x2="800" y2="100" stroke="#ffffff" stroke-width="0.3" stroke-opacity="0.06"/>
+  <line x1="0" y1="120" x2="800" y2="120" stroke="#ffffff" stroke-width="0.3" stroke-opacity="0.04"/>
+  <line x1="0" y1="140" x2="800" y2="140" stroke="#ffffff" stroke-width="0.3" stroke-opacity="0.06"/>
+  <!-- vertical accent -->
+  <rect x="0" y="0" width="3" height="160" fill="#e8c9b4"/>
+  <!-- label -->
+  <text x="24" y="42" font-family="'Courier New',monospace" font-size="9" font-weight="400" letter-spacing="5" fill="#6b6b66">BIOGRAPHY / ARCHIVE / GHOST PROFILE · COLLECTION 2026</text>
+  <!-- name -->
+  <text x="20" y="108" font-family="Georgia,'Times New Roman',serif" font-size="72" font-weight="700" letter-spacing="3" fill="#f0ede8">FARRUHJON</text>
+  <!-- surname small -->
+  <text x="22" y="138" font-family="'Courier New',monospace" font-size="20" font-weight="400" letter-spacing="12" fill="#f0ede8" fill-opacity="0.55">OTAEV</text>
+  <!-- accent line -->
+  <rect x="20" y="148" width="120" height="1.5" fill="#e8c9b4"/>
+  <!-- right tag -->
+  <text x="770" y="148" font-family="'Courier New',monospace" font-size="9" fill="#6b6b66" text-anchor="end" letter-spacing="3">MOSCOW · 2026</text>
+</svg>
