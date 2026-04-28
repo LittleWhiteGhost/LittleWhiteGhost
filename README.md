@@ -1,1 +1,1 @@
-<div align="center"><img src="8115200073_photo_1770349265800.jpg" width="100%"></div><img src="banner.svg" width="100%"><img src="bio.svg" width="100%"><img src="skills.svg" width="100%"><img src="projects.svg" width="100%"><img src="contact.svg" width="100%">
+<div align="center"><img src="8115200073_photo_1770349265800.jpg" width="100%"></div><img src="banner.svg" width="100%"><img src="bio.svg" width="100%"><img src="skills.svg" width="100%"><img src="projects.svg" width="100%"><img src="contact.svg" width="100%"><img src="ghost_banner.svg" width="100%">
