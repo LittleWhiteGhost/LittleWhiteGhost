@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" width="100%" alt="littlewhiteghost"/>
+  <img src="./banner.png" width="100%" alt="littlewhiteghost"/>
 </div>
 
 <div align="center">
@@ -12,11 +12,11 @@
 
 </div>
 
-<img src="./assets/stars.svg" width="100%"/>
+<img src="./stars.svg" width="100%"/>
 
 <!-- ═══════ 01 ═══════ -->
 <div align="center">
-  <img src="./assets/sec-earth.jpg" width="100%" alt=""/>
+  <img src="./sec-earth.jpg" width="100%" alt=""/>
 </div>
 
 ## `01 — CREW MANIFEST`
@@ -39,7 +39,7 @@ motto:     "ship it, then make it pretty"
 
 <!-- ═══════ 02 ═══════ -->
 <div align="center">
-  <img src="./assets/sec-module.jpg" width="100%" alt=""/>
+  <img src="./sec-module.jpg" width="100%" alt=""/>
 </div>
 
 ## `02 — ONBOARD SYSTEMS`
@@ -72,7 +72,7 @@ motto:     "ship it, then make it pretty"
 
 <!-- ═══════ 03 ═══════ -->
 <div align="center">
-  <img src="./assets/sec-blackhole.jpg" width="100%" alt=""/>
+  <img src="./sec-blackhole.jpg" width="100%" alt=""/>
 </div>
 
 ## `03 — ACTIVE MISSIONS`
@@ -100,7 +100,7 @@ motto:     "ship it, then make it pretty"
 
 <!-- ═══════ 04 ═══════ -->
 <div align="center">
-  <img src="./assets/sec-station.jpg" width="100%" alt=""/>
+  <img src="./sec-station.jpg" width="100%" alt=""/>
 </div>
 
 ## `04 — TELEMETRY`
@@ -126,7 +126,7 @@ motto:     "ship it, then make it pretty"
 
 <!-- ═══════ 05 ═══════ -->
 <div align="center">
-  <img src="./assets/sec-antenna.jpg" width="100%" alt=""/>
+  <img src="./sec-antenna.jpg" width="100%" alt=""/>
 </div>
 
 ## `05 — OPEN CHANNEL`
@@ -147,10 +147,10 @@ motto:     "ship it, then make it pretty"
 
 <!-- ═══════ EOT ═══════ -->
 <div align="center">
-  <img src="./assets/sec-astronaut.jpg" width="100%" alt=""/>
+  <img src="./sec-astronaut.jpg" width="100%" alt=""/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=4000&pause=1200&color=6E7681&center=true&vCenter=true&width=560&lines=%3E+transmission+ended;%3E+see+you+on+the+dark+side" alt="outro"/>
 
 </div>
 
-<img src="./assets/stars.svg" width="100%"/>
+<img src="./stars.svg" width="100%"/>
